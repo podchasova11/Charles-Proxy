@@ -45,3 +45,37 @@ Charles configuration may be a bit complex, but its benefits are more than worth
 
 
 ___
+
+[Configuring Charles Proxy](https://github.com/lana-20/charles-setup):
+
+- [Mac]()
+- [Windows]()
+- [Mac and iOS device](https://youtu.be/vtSLoCC299U)
+- [iOS device]()
+- [Android device]()
+- [Android emulator](https://youtu.be/WJYf9nkSIKA)
+  - Sometimes when installing the certificate on an emulator, the page [chls.pro/ssl](chls.pro/ssl) is not loading. This tutorial (TBD), shows an alternative way of installing the certificate on the emulator. 
+Also you may try to head over to [charlesproxy.com/getssl](charlesproxy.com/getssl) if the short url [chls.pro/ssl](chls.pro/ssl) doesn’t work.
+
+
+Charles Proxy Tutorials:
+
+- [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/1827524-charles-proxy-tutorial-for-ios)
+- [Karl von Randow, creator of Charles about Charles for iOS app](https://www.youtube.com/watch?v=RWotEyTeJhc )
+- [Charles Proxy Tutorial for Android](https://medium.com/@daptronic/the-android-emulator-and-charles-proxy-a-love-story-595c23484e02)
+- ['Hack' an Android app to edit manifest file](https://medium.com/@ferrygunawan/debug-ssl-traffic-with-charles-proxy-872aedb228d)
+
+Modify Requests, Responses, Status Codes, etc.:
+
+- [Modify API response for Android app using Charles proxy](https://medium.com/@IlyaEremin/modify-api-response-for-android-app-with-charles-181a822cfc24)
+- [Better Mobile Application Testing with Charles Proxy](http://www.testeffective.com/better-mobile-app-testing-with-charles-proxy/)
+- [Charles Proxy In Action: Mocking And Manipulating API Behavior With A Local Proxy Server](https://www.thinktecture.com/en/tools/debugging-proxies-mocking-manipulating-api-charles-in-action/)
+
+Status Codes and Protocols:
+
+- [HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
+- [WSS (WebSocket Secure) Protocol (used by messengers apps like Slack)](https://devcenter.heroku.com/articles/websocket-security)
+
+Notes:
+
+- [Notes on Charles Proxy](https://github.com/lana-20/charles-notes)
